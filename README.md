@@ -10,10 +10,10 @@ Very much in development...
 
 Prod:
 <pre>
-    pip install git://github.com/macropin/adlibre-dms-testing.git
+pip install git://github.com/macropin/adlibre-dms-testing.git
 </pre>
 
 Development:
 <pre>
-    pip install -e git+git@github.com:macropin/adlibre-dms-testing.git#egg=dms_testing-dev
+pip install -e git+git@github.com:macropin/adlibre-dms-testing.git#egg=dms_testing-dev
 </pre>
