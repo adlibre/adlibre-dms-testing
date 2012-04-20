@@ -9,11 +9,10 @@ Very much in development...
 ## Install
 
 Prod:
-<pre>
-pip install git://github.com/adlibre/adlibre-dms-testing.git
-</pre>
+
+    pip install git+git://github.com/adlibre/adlibre-dms-testing.git
+
 
 Development:
-<pre>
-pip install -e git+git@github.com:adlibre/adlibre-dms-testing.git#egg=dms_testing-dev
-</pre>
+
+    pip install -e git+git@github.com:adlibre/adlibre-dms-testing.git#egg=dms_testing-dev
